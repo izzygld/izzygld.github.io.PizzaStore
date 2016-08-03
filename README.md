@@ -5,7 +5,7 @@
 
 ###View live Demo
 
-* [pizza page](https://izzygld.github.io/optimized/dist/views/pizza.html)
+* [pizza page](https://izzygld.github.io.PizzaStore/pizza.html)
 Click on Cam's Pizzeria To order your pizza you need to use the size slider to select the size of your pizza. You can scroll throught the selection and choose which one you want to order.
 Enjoy your Pizza!
 
