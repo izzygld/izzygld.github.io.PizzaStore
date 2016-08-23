@@ -8,8 +8,7 @@ Built into the code, you'll find a few instances of the User Timing API
 (window.performance), which will be console.log()ing frame rate data into the
 browser console. To learn more about User Timing API, check out:
 http://www.html5rocks.com/en/tutorials/webperformance/usertiming/
-Creator:
-Cameron Pittman, Udacity Course Developer
+
 */
 
 // As you may have realized, this website randomly generates pizzas.
@@ -28,6 +27,7 @@ pizzaIngredients.meats = [
   "Chorizo",
   "Chicken Andouille",
   "Salami",
+  "Bread",
   "Tofu",
   "Bacon",
   "Canadian Bacon",
@@ -173,7 +173,7 @@ function getAdj(x){
       "metallic"];
       return shiny;
     case "noisy":
-      var noisy = ["untuned", "loud", "soft", "shrieking", "melodious", "musical", "operatic", "symphonic", "dancing", "lyrical", "harmonic",
+      var noisy = ["untuned","booming", "loud", "soft", "shrieking", "melodious", "musical", "operatic", "symphonic", "dancing", "lyrical", "harmonic",
       "orchestral", "noisy", "dissonant", "rhythmic", "hissing", "singing", "crooning", "shouting", "screaming", "wailing", "crying", "howling",
       "yelling", "hollering", "caterwauling", "bawling", "bellowing", "roaring", "squealing", "beeping", "knocking", "tapping", "rapping",
       "humming", "scatting", "whispered", "whispering", "rasping", "buzzing", "whirring", "whistling", "whistled"];
